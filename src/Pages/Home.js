@@ -11,7 +11,7 @@ const Home = () => {
     <div className="container mx-auto px-6 flex flex-col md:flex-row items-center space-y-8 md:space-y-0 md:space-x-12">
 
         {/* Columna derecha: Imagen personal */}
-        <div className="flex-1">
+        <div className="flex-2">
           <img
             src="/pages.jpeg" // Ruta de la imagen
             alt="Tu nombre"
